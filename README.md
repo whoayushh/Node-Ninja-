@@ -13,12 +13,12 @@ Node Ninja Estate is a smart contract platform built on the Ethereum blockchain 
 
 ## WORKING
 - The buyer views properties of interest submits an offer to the seller and approves of property
-• The buyer provides an earnest money deposit as a sign of good faith and commitment to the purchase. This deposit is held in escrow.
-• Home inspection is done by inspector to evaluate the property
-• The lender conducts underwriting, assessing the buyer's creditworthiness and confirming the property's eligibility for financing
-• Lender typically pays lends in line loan amount
-• Seller approves of all the above transactions and is ready to sell
-• The seller then sells the property. The buyer receives ownership of the property, and the seller receives the proceeds from the sale.
+- The buyer provides an earnest money deposit as a sign of good faith and commitment to the purchase. This deposit is held in escrow.
+- Home inspection is done by inspector to evaluate the property
+- The lender conducts underwriting, assessing the buyer's creditworthiness and confirming the property's eligibility for financing
+- Lender typically pays lends in line loan amount
+- Seller approves of all the above transactions and is ready to sell
+- The seller then sells the property. The buyer receives ownership of the property, and the seller receives the proceeds from the sale.
   
 
 ## Requirements For Initial Setup
