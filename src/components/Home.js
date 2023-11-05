@@ -26,6 +26,7 @@ const Home = ({ home, provider, account, escrow, togglePop }) => {
         setHasBought(hasBought)
 
 
+
         const seller = await escrow.seller()
         setSeller(seller)
 
